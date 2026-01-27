@@ -1,6 +1,8 @@
-![Laravel](https://img.shields.io/badge/Laravel-10-red?logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-12.35.1-red?logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
+![Vite](https://img.shields.io/badge/Vite-Build-yellow?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?logo=tailwindcss)
 
 # 🍽️ Restaurant QR Order System
 
@@ -25,3 +27,20 @@ Sistem ini dirancang untuk meningkatkan efisiensi pelayanan, mengurangi antrian,
 - **Database**: MySQL  
 - **QR Code**: Library QR Code Generator  
 - **Server**: Apache (Laragon)
+
+## 📸 Screenshot Aplikasi
+
+### Scan QR Code
+![Scan QR](public/images/Qris.png)
+
+### Halaman Menu Pelanggan
+![Menu Pelanggan](public/images/Table.png)
+
+### Halaman Keranjang
+![Keranjang](public/images/Keranjang.png)
+
+### Halaman Pembayaran Qris
+![Pembayaran-qris](public/images/Pembayaran-qris.png)
+
+### Halaman Konfirmasi Pesanan
+![Konfirmasi Pesanan](public/images/Konfirmasi-pesanan.png)
