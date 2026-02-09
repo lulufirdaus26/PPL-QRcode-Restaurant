@@ -1,6 +1,6 @@
 
 <p>Link Jurnal untuk project Ini:</p>
-<p>https://docs.google.com/document/d/1WJGyrHK3yp3kVQJayof8wbn2lJwLRe4Z/edit?usp=drivesdk&ouid=114875993941243424526&rtpof=true&sd=true</p>
+<p>https://drive.google.com/drive/folders/1pi7m2WpTTpMNO9_jNhkV3lQKnM1pLKop</p>
 # 🍽️ Restaurant QR Order System
 
 Sistem **Restaurant QR Order** adalah aplikasi berbasis web yang memungkinkan pelanggan melakukan pemesanan makanan dan minuman dengan cara **scan QR Code** langsung dari meja tanpa perlu aplikasi tambahan.  
